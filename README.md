@@ -1,11 +1,6 @@
 Robot Controller Simulator
 ==========================
 
-[Robot Controller Simulator]() project home page.
-
-Details
----
-
 This was a project made by myself and a partner for one of our programming
 courses. 
 
